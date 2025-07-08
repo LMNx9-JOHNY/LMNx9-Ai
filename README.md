@@ -6,7 +6,7 @@
 
 <div align="center">
 
-✨ **Version**: `v1.0`  
+✨ **Version**: `v1.1`  
 🔥 **Features**: `Free` | `Fast` | `Secure` | `24/7`  
 💻 **Developer**: [DARK LMNx9](https://t.me/x_LMNx9)
 
@@ -16,7 +16,7 @@
 
 ## 📥 Download Now
 <p align="center">
-  <a href="https://github.com/LMNx9-JOHNY/LMNx9-Ai/raw/refs/heads/main/LMNx9_Ai_1.0.apk">
+  <a href="https://github.com/LMNx9-JOHNY/LMNx9-Ai/raw/refs/heads/main/LMNx9_Ai_1.1.apk">
     <img src="https://img.shields.io/badge/Download-Free_APK-brightgreen?style=for-the-badge&logo=android" alt="Download">
   </a>
 </p>
